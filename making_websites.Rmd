@@ -28,3 +28,7 @@ Let's link to useful tools for data science:
 Here's my love, bkpp:
 
 ![](bkpp/3.jpg)
+
+## Link to page within the site
+
+[About me](about.html)
