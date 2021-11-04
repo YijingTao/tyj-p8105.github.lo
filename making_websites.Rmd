@@ -1,4 +1,30 @@
 ---
-title: "making website"
-output: html_document
+title: "TYJ's website"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
 ---
+# This is TYJ's website
+
+
+## Here is a subsection
+
+And here's some addition text
+
+```{r}
+rnorm(10)
+```
+
+## Links
+
+Let's link to useful tools for data science:
+
+* [Google](https://www.google.com/)
+
+## local image
+
+Here's my love, bkpp:
+
+![](bkpp/3.jpg)
